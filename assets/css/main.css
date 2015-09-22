@@ -2130,8 +2130,9 @@
 				}
 
 		.wrapper.style3 {
-			background: #fff;
-			color: inherit;
+			background: #333333;
+			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
+			color: white;
 		}
 
 		.wrapper.style4 {
