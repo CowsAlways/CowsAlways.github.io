@@ -2135,7 +2135,11 @@
 		}
 
 		.wrapper.style4 {
+<<<<<<< HEAD
 			background: #fff ;
+=======
+			background: #fff;
+>>>>>>> parent of 7258467... Changed wrapper Style 4
 			color: inherit;
 			padding: 4em;
 		}
