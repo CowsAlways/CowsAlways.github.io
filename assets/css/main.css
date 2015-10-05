@@ -2131,9 +2131,28 @@
 				}
 
 		.wrapper.style3 {
-			background: #333333;
+			background-color: #197A19;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
-			color: white;
+			background-position: bottom left, bottom right;
+			background-repeat: no-repeat, no-repeat;
+			background-size: 25em, 25em;
+			color: #fff;
+		}
+
+			.wrapper.style3 .button:hover {
+				background: rgba(255, 255, 255, 0.15) !important;
+			}
+
+			.wrapper.style3 .button.special {
+				background: #333333;
+				background-image: url("images/light-bl.svg"), url("images/light-br.svg");
+				border-color: #fff;
+				color: #83d3c9 !important;
+			}
+
+				.wrapper.style3 .button.special:hover {
+					border-color: inherit !important;
+					color: #fff !important;
 		}
 
 		.wrapper.style4 {
