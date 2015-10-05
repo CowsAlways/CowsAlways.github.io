@@ -2111,7 +2111,7 @@
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: #fff;
+			color: #ffffff;
 		}
 
 			.wrapper.style2 .button:hover {
@@ -2121,13 +2121,13 @@
 			.wrapper.style2 .button.special {
 				background: #333333;
 				background-image: url("images/light-bl.svg"), url("images/light-br.svg");
-				border-color: #fff;
+				border-color: #ffffff;
 				color: #83d3c9 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
 					border-color: inherit !important;
-					color: #fff !important;
+					color: #ffffff !important;
 				}
 
 		.wrapper.style3 {
