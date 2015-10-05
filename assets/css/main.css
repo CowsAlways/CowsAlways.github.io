@@ -2119,7 +2119,8 @@
 			}
 
 			.wrapper.style2 .button.special {
-				background: #fff;
+				background: #333333;
+				background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 				border-color: #fff;
 				color: #83d3c9 !important;
 			}
