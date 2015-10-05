@@ -2131,8 +2131,13 @@
 				}
 
 		.wrapper.style3 {
-			background-color: #197A19;
+			background: #333333;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
+<<<<<<< HEAD
+=======
+			color: white;
+		}
+>>>>>>> parent of 1080bb0... changed wrapper.style3
 
 		.wrapper.style4 {
 <<<<<<< HEAD
