@@ -2133,27 +2133,11 @@
 		.wrapper.style3 {
 			background: #333333;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of 1080bb0... changed wrapper.style3
-=======
->>>>>>> parent of 1080bb0... changed wrapper.style3
-=======
->>>>>>> parent of 1080bb0... changed wrapper.style3
-			color: white;
-		}
->>>>>>> parent of 1080bb0... changed wrapper.style3
+}
 
 		.wrapper.style4 {
-<<<<<<< HEAD
-			background: #fff ;
-=======
-			background: #fff;
->>>>>>> parent of 7258467... Changed wrapper Style 4
+
+			background: #ffffff ;
 			color: inherit;
 			padding: 4em;
 		}
