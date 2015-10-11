@@ -2732,9 +2732,6 @@
 				padding-top: 5em;
 			}
 
-				header.special:before, header.special:after {
-					width: 40%;
-				}
 
 				header.special h2 + p {
 					padding-top: 1.25em;
