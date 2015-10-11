@@ -129,7 +129,7 @@
 		}
 
 		.container {
-			width: 993px;
+			width: 1000px;
 		}
 
 	}
@@ -2134,7 +2134,7 @@
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			{background-color: #333333 ! important };}
+			}
 
 		.wrapper.style4 {
 
