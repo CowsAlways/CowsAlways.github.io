@@ -2141,10 +2141,10 @@
 		.wrapper.style4 {
 
 			background-color: #BA9F38;
-    		padding-top: 25px;
-   			padding-right: 50px;
-    		padding-bottom: 25px;
-    		padding-left: 50px;
+    		padding-top: 25px !important;
+   			padding-right: 50px !important;
+    		padding-bottom: 25px !important;
+    		padding-left: 50px !important;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
