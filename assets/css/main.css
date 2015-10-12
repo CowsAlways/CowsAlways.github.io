@@ -2141,11 +2141,14 @@
 		.wrapper.style4 {
 
 			background-color: #BA9F38;
+    		padding-top: 25px;
+   			padding-right: 50px;
+    		padding-bottom: 25px;
+    		padding-left: 50px;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: #BA9F38 !important;
 			}
 
 /* Header */
